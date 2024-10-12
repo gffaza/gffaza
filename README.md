@@ -3,8 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Product Designer & FrontEnd Dev
 -------------------------------
-
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/11j5OF7BTglVkc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/11j5OF7BTglVkc">via GIPHY</a></p>
+[][www.github.com/gffaza/]
 
 I'm a passionate designer with experience in crafting engaging user experiences, and I'm now diving deeper into front-end development. I love blending creativity with code, aiming to create seamless and visually appealing digital products.
 
