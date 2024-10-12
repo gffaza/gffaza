@@ -46,4 +46,7 @@ I'm a passionate designer with experience in crafting engaging user experiences,
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
     </picture>
-    </a></p>### Badges<a href="https://github.com/gffaza" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gffaza&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+    </a></p>
+    
+### Badges
+<a href="https://github.com/gffaza" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gffaza&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
