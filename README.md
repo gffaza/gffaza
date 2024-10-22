@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Product Designer & FrontEnd Dev
 -------------------------------
-![](https://github.com/gffaza/gffaza/blob/main/1012.gif)![](http://ghilmanfaza.site)
+![(https://github.com/gffaza/gffaza/blob/main/1012.gif)](http://ghilmanfaza.site)
 
 I'm a passionate designer with experience in crafting engaging user experiences, and I'm now diving deeper into front-end development. I love blending creativity with code, aiming to create seamless and visually appealing digital products.
 
