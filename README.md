@@ -12,7 +12,7 @@ I'm a passionate designer with experience in crafting engaging user experiences,
 *   🌍  I'm based in Jakarta
 *   🖥️  See my portfolio at [My Portfolio](http://ghilmanfaza.site)
 *   ✉️  You can contact me at [ghilmanfaza.work@gmail.com](mailto:ghilmanfaza.work@gmail.com)
-*   🧠  I'm learning Swift
+*   🧠  I'm learning Swift & Go Lang
 
 
 ### Skills 
