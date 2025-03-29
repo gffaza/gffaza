@@ -3,14 +3,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Product Designer & FrontEnd Dev
 -------------------------------
-[<img src="https://github.com/gffaza/gffaza/blob/main/1012.gif">](http://ghilmanfaza.site)
+[<img src="https://github.com/gffaza/gffaza/blob/main/1012.gif">]([http://ghilmanfaza.site](https://portfolio-2-13q.pages.dev))
 
 
 
 I'm a passionate designer with experience in crafting engaging user experiences, and I'm now diving deeper into front-end development. I love blending creativity with code, aiming to create seamless and visually appealing digital products.
 
 *   🌍  I'm based in Jakarta
-*   🖥️  See my portfolio at [My Portfolio](http://ghilmanfaza.site)
+*   🖥️  See my portfolio at [My Portfolio]([http://ghilmanfaza.site](https://portfolio-2-13q.pages.dev))
 *   ✉️  You can contact me at [ghilmanfaza.work@gmail.com](mailto:ghilmanfaza.work@gmail.com)
 *   🧠  I'm learning Swift & React
 
